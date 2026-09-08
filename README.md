@@ -29,6 +29,7 @@
 
 | Project Link | Area of Analysis | Project Description |
 | :--- | :--- | :--- |
+| Financial analysis(https://github.com/ElzaJung/SQL/tree/main/1.%20E-commerce%20revenue%20funnel%20and%20financial%20analysis) | Data analysis, Data Transformation | .. |
 
 ---
 
