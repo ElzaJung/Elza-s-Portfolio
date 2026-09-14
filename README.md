@@ -6,7 +6,7 @@
 - [Big Data](#-big-data)
 - [SQL](#-sql)
 - [Python](#-python)
-- [Tableau](#-tableau)
+- [Tableau & Power BI](#-tableau-&-power-bi)
 
 ---
 
@@ -48,7 +48,7 @@
 
 ---
 
-## 📊 Tableau
+## 📊 Tableau & Power BI
 
 | Project Link | Project Description | Dashboard link |
 | :--- | :--- | :--- |
