@@ -6,7 +6,7 @@
 - [Big Data](#-big-data)
 - [SQL](#-sql)
 - [Python](#-python)
-- [Tableau & Power BI](#-tableau-&-power-bi)
+- [Tableau & Power BI](#-tableau)
 
 ---
 
