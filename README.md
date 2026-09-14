@@ -36,7 +36,7 @@
 
 | Project Link | Area of Analysis | Project Description |
 | :--- | :--- | :--- |
-| Financial analysis(https://github.com/ElzaJung/SQL/tree/main/1.%20E-commerce%20revenue%20funnel%20and%20financial%20analysis) | Data analysis, Data Transformation | .. |
+| [Financial analysis](./SQL) | Data analysis, Data Transformation | .. |
 
 ---
 
@@ -50,5 +50,6 @@
 
 ## 📊 Tableau
 
-| Project Link | Dashboard Focus | Project Description |
+| Project Link | Project Description | Dashboard link |
 | :--- | :--- | :--- |
+|Dynamic Sales Dashboard|A dynamic dashboard to track internet sales, offering filters by year/month, customer city, and product for granular analysis.|https://elzajung.com/image/InteractiveDashboard.mp4|
